@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hr.landing-page/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hr.landing-page/static/js/main.c909d88f.chunk.js",
+    "main.js.map": "/hr.landing-page/static/js/main.c909d88f.chunk.js.map",
+    "runtime-main.js": "/hr.landing-page/static/js/runtime-main.798eccda.js",
+    "runtime-main.js.map": "/hr.landing-page/static/js/runtime-main.798eccda.js.map",
+    "static/js/2.e6d05517.chunk.js": "/hr.landing-page/static/js/2.e6d05517.chunk.js",
+    "static/js/2.e6d05517.chunk.js.map": "/hr.landing-page/static/js/2.e6d05517.chunk.js.map",
+    "index.html": "/hr.landing-page/index.html",
+    "precache-manifest.3300a01fbf9f40537e11f73c0f9df000.js": "/hr.landing-page/precache-manifest.3300a01fbf9f40537e11f73c0f9df000.js",
+    "service-worker.js": "/hr.landing-page/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hr.landing-page/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6d05517.chunk.js.LICENSE.txt": "/hr.landing-page/static/js/2.e6d05517.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hr.landing-page/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.798eccda.js",
+    "static/js/2.e6d05517.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c909d88f.chunk.js"
+  ]
+}
